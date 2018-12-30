@@ -14,7 +14,8 @@ Imports:
     dplyr,
     tidyr,
     utils,
-    purrr
+    purrr,
+    stringr
 Suggests: 
     testthat,
     spelling

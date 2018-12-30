@@ -15,7 +15,8 @@ Imports:
     tidyr,
     utils,
     purrr,
-    stringr
+    stringr,
+    sjlabelled
 Suggests: 
     testthat,
     spelling

@@ -1,0 +1,20 @@
+Package: eurobarometer
+Type: Package
+Title: Processing Eurobarometer Data Files
+Version: 0.1.0
+Author: Daniel Antal
+Maintainer: Daniel Antal <daniel.antal@ceemid.eu>
+Description: Import Eurobarometer data files, process and connect them.
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    haven,
+    dplyr,
+    tidyr,
+    utils
+Suggests: 
+    testthat,
+    spelling
+Language: en-US

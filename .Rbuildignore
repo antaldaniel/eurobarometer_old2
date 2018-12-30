@@ -1,0 +1,4 @@
+^README\.Rmd$
+^not_included$
+^.*\.Rproj$
+^\.Rproj\.user$

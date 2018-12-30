@@ -1,5 +1,8 @@
 library(dplyr)
 
+raw_path <- "C:/Users/Daniel Antal/OneDrive - Visegrad Investments/_data/data-raw/gesis/ZA4528_v2-0-1.sav"
+
+
 sav_directory <- 'C:/Users/Daniel Antal/OneDrive - Visegrad Investments/_data/data-raw/gesis'
 directory_items <- dir ( sav_directory)
 sav_files <- directory_items[ which( stringr::str_sub(directory_items, -3, -1) == 'sav') ]

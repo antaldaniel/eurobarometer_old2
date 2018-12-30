@@ -13,8 +13,10 @@ Imports:
     haven,
     dplyr,
     tidyr,
-    utils
+    utils,
+    purrr
 Suggests: 
     testthat,
     spelling
 Language: en-US
+RoxygenNote: 6.1.1
